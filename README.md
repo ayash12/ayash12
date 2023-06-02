@@ -4,4 +4,4 @@
   - 🌱 And also a (kinda) Flutter Developer. Not making app, but fixing bugs :)
 - 📫 How to reach me, DM me on twitter @ayash12
 
-![ayash12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayash12&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayash12&count_private=true&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true)
+![ayash12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayash12&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayash12&count_private=false&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true)
