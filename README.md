@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @ayash12.
-- 👀 I’m interested in Mobile Development
-  - 🌱 Currently, I have experience in Android development using Java and Kotlin languages. Work on applications from concept, design, development, testing, release, and support
-  - 🌱 I also have experience in iOS development using Swift and Objective C languages. Not making app, but fixing bugs :)
-  - 🌱 And also a (kind of) Flutter Developer. Not making app, but fixing bugs :)
-- 📫 How to reach me, DM me on Instagram @yash_aja_
+# 👋 Hi there, I'm Ayash Abdus Syahiid
 
-![ayash12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayash12&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayash12&count_private=false&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true)
+**`Mobile Developer (Android / iOS / Flutter)`**
+
+Hi, I'm Ayash — a passionate Mobile Developer who loves turning ideas into functional and scalable mobile applications.  
+Graduated in Informatics Engineering (2019), I have professional experience building Android, iOS, and Flutter apps from concept to release.  
+I focus on creating high-quality, maintainable code and implementing clean architectures like MVVM and MVP.
+
+---
+
+### 🧠 Tech Stack
+**Languages:**  
+`Java` • `Kotlin` • `Swift` • `Objective-C` • `Dart` • `Javascript` • `PHP`  
+
+**Frameworks & Tools:**  
+`Android Studio` • `Xcode` • `Flutter` • `React Native` • `Node.js` • `Bootstrap` • `MySQL` • `GitHub`  
+
+
+### 📫 Connect with Me
+📍 Depok, Indonesia  
+📧 [ayashabdus@gmail.com](mailto:ayashabdus@gmail.com)  
+🔗 [linkedin.com/in/ayashabdus](https://linkedin.com/in/ayashabdus)  
+💻 [github.com/ayash12](https://github.com/ayash12)  
+
+---
+
+### 🧩 GitHub Stats
+![Ayash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayash12&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayash12&layout=compact&theme=tokyonight)
+
+---
+⭐️ _“Building mobile experiences that connect people and technology.”_
